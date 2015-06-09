@@ -1,0 +1,3360 @@
+        
+        
+        
+        
+        
+        
+   X    
+        
+        
+        
+        
+        
+        
+        
+Offset: 100 Character 0 Press Return
+        
+  XXX   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+  XXX   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 114 Character 1 Press Return
+XXX XXX 
+X X X X 
+XXX XXX 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 128 Character 2 Press Return
+        
+XXX XXX 
+X X X X 
+X X X X 
+X XXX XX
+X X X X 
+X X X X 
+X X X X 
+X XXX XX
+X X X X 
+X X X X 
+XXX XXX 
+        
+        
+Offset: 142 Character 3 Press Return
+  XXX   
+  X X   
+ XX XX  
+X X X X 
+X X X X 
+X X X   
+ XX XX  
+  X X X 
+  X X X 
+X X X X 
+ XX XX  
+  X X   
+  XXX   
+        
+Offset: 156 Character 4 Press Return
+        
+ X  XXX 
+X X X X 
+ X X X  
+   X X  
+  X X   
+  X X   
+ X X    
+ X X X  
+X X X X 
+XXX  X  
+        
+        
+        
+Offset: 170 Character 5 Press Return
+        
+  XXX   
+ X X X  
+ X X X  
+ X X X  
+  X X   
+  XX   X
+ X XX X 
+X X  X  
+X X  X  
+ XXXX X 
+       X
+        
+        
+Offset: 184 Character 6 Press Return
+   XX   
+  X  X  
+   XX   
+  X     
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 198 Character 7 Press Return
+    XXX 
+   X X  
+   X X  
+   X X  
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+   X X  
+   X X  
+   X X  
+    XXX 
+Offset: 212 Character 8 Press Return
+ XXX    
+  X X   
+  X X   
+  X X   
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+  X X   
+  X X   
+  X X   
+ XXX    
+Offset: 226 Character 9 Press Return
+        
+        
+        
+        
+XXX XXX 
+ X X X  
+XXXXXXX 
+ X X X  
+XXX XXX 
+        
+        
+        
+        
+        
+Offset: 240 Character 10 Press Return
+        
+        
+        
+        
+  XXX   
+  X X   
+XXX XXX 
+  X X   
+  XXX   
+        
+        
+        
+        
+        
+Offset: 254 Character 11 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+   XX   
+  X  X  
+   XX   
+  X     
+        
+Offset: 268 Character 12 Press Return
+        
+        
+        
+        
+        
+        
+ XXXXXX 
+        
+        
+        
+        
+        
+        
+        
+Offset: 282 Character 13 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+   XX   
+  X  X  
+   XX   
+        
+        
+        
+Offset: 296 Character 14 Press Return
+     XXX
+     X X
+     X X
+    X X 
+    X X 
+   X X  
+   X X  
+  X X   
+  X X   
+ X X    
+ X X    
+X X     
+X X     
+XXX     
+Offset: 310 Character 15 Press Return
+        
+   XX   
+  XX X  
+ X X  X 
+ X X  X 
+ X X  X 
+ X X  X 
+ X X  X 
+ X X  X 
+  XX X  
+   XX   
+        
+        
+        
+Offset: 324 Character 16 Press Return
+        
+  XXX   
+  X X   
+ XX X   
+X X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+XXXXXXX 
+        
+        
+        
+Offset: 338 Character 17 Press Return
+        
+ XXXX   
+X  X X  
+X   X X 
+    X X 
+   XXX  
+  X X   
+ X X    
+X X     
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 352 Character 18 Press Return
+        
+XXXXXXX 
+    X X 
+   X X  
+  X X   
+ XXXX   
+   X X  
+    X X 
+X   X X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 366 Character 19 Press Return
+        
+ X XXX  
+ X X X  
+ X X X  
+ X X X  
+ X X X  
+X  X X  
+XXXX XX 
+   X X  
+   X X  
+  XXXXX 
+        
+        
+        
+Offset: 380 Character 20 Press Return
+        
+XXXXXX  
+X X     
+X X     
+X XXX   
+XX X X  
+    X X 
+    X X 
+X   X X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 394 Character 21 Press Return
+        
+  XXX   
+ X   X  
+X       
+X       
+X XXX   
+XX X X  
+X   X X 
+X   X X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 408 Character 22 Press Return
+        
+XXXXXXX 
+X   X X 
+X   X X 
+   X X  
+   X X  
+  X X   
+  X X   
+ X X    
+ X X    
+ XXX    
+        
+        
+        
+Offset: 422 Character 23 Press Return
+        
+  XXX   
+ X X X  
+ X X X  
+ X X X  
+  XXX   
+ X X X  
+X   X X 
+X   X X 
+X   X X 
+ XXXXX  
+        
+        
+        
+Offset: 436 Character 24 Press Return
+        
+  XXX   
+ X X X  
+X X   X 
+X X   X 
+ X X XX 
+  XXX X 
+      X 
+     X  
+    X   
+ XXX    
+        
+        
+        
+Offset: 450 Character 25 Press Return
+        
+        
+        
+   XX   
+  X  X  
+   XX   
+        
+        
+   XX   
+  X  X  
+   XX   
+        
+        
+        
+Offset: 464 Character 26 Press Return
+        
+        
+        
+   XX   
+  X  X  
+   XX   
+        
+        
+   XX   
+  X  X  
+   XX   
+  X     
+        
+        
+Offset: 478 Character 27 Press Return
+     XXX
+    X X 
+   X X  
+  X X   
+ X X    
+X X     
+ X X    
+  X X   
+   X X  
+    X X 
+     XXX
+        
+        
+        
+Offset: 492 Character 28 Press Return
+        
+        
+        
+        
+ XXXXXX 
+        
+        
+        
+ XXXXXX 
+        
+        
+        
+        
+        
+Offset: 506 Character 29 Press Return
+XXX     
+ X X    
+  X X   
+   X X  
+    X X 
+     X X
+    X X 
+   X X  
+  X X   
+ X X    
+XXX     
+        
+        
+        
+Offset: 520 Character 30 Press Return
+        
+  XXXX  
+ X  X X 
+X    X X
+    X X 
+   X X  
+   XXX  
+        
+   XX   
+  X  X  
+   XX   
+        
+        
+        
+Offset: 534 Character 31 Press Return
+        
+  XXX   
+ X X X  
+ X X  X 
+X X X X 
+X XX XX 
+X XX XX 
+X X X X 
+ X X    
+ X X    
+  XXX   
+        
+        
+        
+Offset: 548 Character 32 Press Return
+        
+  XXX   
+  X X   
+ X X X  
+ X X X  
+ X  X X 
+X   X X 
+XXXXX X 
+X   X X 
+X   X X 
+X   XXX 
+        
+        
+        
+Offset: 562 Character 33 Press Return
+        
+XXXXX   
+X X  X  
+X X  X  
+X X  X  
+X XXX   
+X X  X  
+X X  X  
+X X  X  
+X X  X  
+XXXXX   
+        
+        
+        
+Offset: 576 Character 34 Press Return
+        
+  XXXX  
+ X X  X 
+ X X    
+X X     
+X X     
+X X     
+X X     
+ X X    
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 590 Character 35 Press Return
+        
+XXXXX   
+X X  X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X  X  
+XXXXX   
+        
+        
+        
+Offset: 604 Character 36 Press Return
+        
+XXXXXXX 
+X X     
+X X     
+X XXXX  
+X X     
+X X     
+X X     
+X X     
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 618 Character 37 Press Return
+        
+XXXXXXX 
+X X     
+X X     
+X XXXX  
+X X     
+X X     
+X X     
+X X     
+X X     
+XXX     
+        
+        
+        
+Offset: 632 Character 38 Press Return
+        
+  XXX   
+ X X X  
+ X X  X 
+X X     
+X X     
+X X XXX 
+X X   X 
+ X X  X 
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 646 Character 39 Press Return
+        
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X XXXXX 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 660 Character 40 Press Return
+        
+  XXX   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 674 Character 41 Press Return
+        
+    XXX 
+    X X 
+    X X 
+    X X 
+    X X 
+    X X 
+X   X X 
+X   X X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 688 Character 42 Press Return
+        
+XXX    X
+X X   X 
+X X  X  
+X X  X  
+X X X   
+X XXX   
+X X  X  
+X X  X  
+X X   X 
+XXX    X
+        
+        
+        
+Offset: 702 Character 43 Press Return
+        
+ XXX    
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ XXXXXX 
+        
+        
+        
+Offset: 716 Character 44 Press Return
+        
+XXX   X 
+X X   X 
+X X   X 
+X XX XX 
+X X X X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 730 Character 45 Press Return
+        
+XXX   X 
+X X   X 
+X XX  X 
+X XX  X 
+X X X X 
+X X X X 
+X X  XX 
+X X  XX 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 744 Character 46 Press Return
+        
+  XXX   
+ X X X  
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 758 Character 47 Press Return
+        
+XXXXX   
+X X  X  
+X X   X 
+X X   X 
+X X  X  
+X XXX   
+X X     
+X X     
+X X     
+XXX     
+        
+        
+        
+Offset: 772 Character 48 Press Return
+        
+  XXX   
+ X X X  
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+X X X X 
+ X XX X 
+ X X X  
+  XXX X 
+      X 
+        
+        
+Offset: 786 Character 49 Press Return
+        
+XXXXX   
+X X  X  
+X X   X 
+X X   X 
+X X  X  
+X XXX   
+X X X   
+X X  X  
+X X  X  
+XXX   X 
+        
+        
+        
+Offset: 800 Character 50 Press Return
+        
+ XXXXX  
+X X   X 
+X X     
+X X     
+ XXX    
+   XXX  
+    X X 
+    X X 
+X   X X 
+ XXXXX  
+        
+        
+        
+Offset: 814 Character 51 Press Return
+        
+XXXXXXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 828 Character 52 Press Return
+        
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 842 Character 53 Press Return
+        
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+  X X   
+   X    
+   X    
+        
+        
+        
+Offset: 856 Character 54 Press Return
+        
+XXX   X 
+X X   X 
+X X   X 
+X X X X 
+X X X X 
+X XXX X 
+ X X X  
+ X X X  
+ X X X  
+ XXX X  
+        
+        
+        
+Offset: 870 Character 55 Press Return
+        
+XXX   X 
+X X   X 
+X X   X 
+ X X X  
+  X X   
+  X X   
+  XX X  
+ X  X X 
+X   X X 
+X   XXX 
+        
+        
+        
+Offset: 884 Character 56 Press Return
+        
+XXX   X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+ X X X  
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 898 Character 57 Press Return
+        
+XXXXXXX 
+    X X 
+   X X  
+   X X  
+  X X   
+  X X   
+ X X    
+ X X    
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 912 Character 58 Press Return
+  XXXXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXXXX 
+Offset: 926 Character 59 Press Return
+XXX     
+X X     
+X X     
+ X X    
+ X X    
+  X X   
+  X X   
+   X X  
+   X X  
+    X X 
+    X X 
+     X X
+     X X
+     XXX
+Offset: 940 Character 60 Press Return
+ XXXXX  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+ XXXXX  
+Offset: 954 Character 61 Press Return
+   XX   
+  X  X  
+ X    X 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 968 Character 62 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+XXXXXXXX
+Offset: 982 Character 63 Press Return
+   XX   
+  X  X  
+   XX   
+     X  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 996 Character 64 Press Return
+        
+        
+        
+ XXXXX  
+X   X X 
+    X X 
+  XXX X 
+ X  X X 
+X   X X 
+X   X X 
+ XXXXXX 
+        
+        
+        
+Offset: 1010 Character 65 Press Return
+        
+XXX     
+X X     
+X XXX   
+X X  X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X  X  
+XXXXX   
+        
+        
+        
+Offset: 1024 Character 66 Press Return
+        
+        
+        
+  XXXX  
+ X X  X 
+X X     
+X X     
+X X     
+X X     
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 1038 Character 67 Press Return
+        
+    XXX 
+    X X 
+  XXX X 
+ X  X X 
+X   X X 
+X   X X 
+X   X X 
+X   X X 
+ X  X X 
+  XXXXX 
+        
+        
+        
+Offset: 1052 Character 68 Press Return
+        
+        
+        
+  XXX   
+ X X X  
+X X   X 
+X XXXXX 
+X X     
+X X     
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 1066 Character 69 Press Return
+        
+   XXX  
+  X X X 
+  X X   
+  X X   
+XXX XXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 1080 Character 70 Press Return
+        
+        
+        
+ XXXXX  
+X X   X 
+X X   X 
+ X X  X 
+X XXXX  
+X X     
+X XXX   
+ X   X  
+X XXX X 
+X X X X 
+X X X X 
+Offset: 1094 Character 71 Press Return
+        
+XXX     
+X X     
+X XXXX  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 1108 Character 72 Press Return
+        
+  XXX   
+        
+  XXX   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 1122 Character 73 Press Return
+        
+   XXX  
+        
+   XXX  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+   X X  
+X  X X  
+ XXXX   
+Offset: 1136 Character 74 Press Return
+        
+XXX     
+X X     
+X X   X 
+X X  X  
+X X X   
+X XX    
+X XX    
+X X X   
+X X  X  
+XXX   X 
+        
+        
+        
+Offset: 1150 Character 75 Press Return
+        
+  XXX   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 1164 Character 76 Press Return
+        
+        
+        
+XXXX  X 
+X X XX X
+X X X  X
+X X X  X
+X X X  X
+X X X  X
+X X X  X
+XXX X  X
+        
+        
+        
+Offset: 1178 Character 77 Press Return
+        
+        
+        
+XXX XX  
+X XX  X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 1192 Character 78 Press Return
+        
+        
+        
+  XXX   
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 1206 Character 79 Press Return
+        
+        
+        
+XXXXX   
+X X  X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X  X  
+X XXX   
+X X     
+X X     
+XXX     
+Offset: 1220 Character 80 Press Return
+        
+        
+        
+  XXXXX 
+ X  X X 
+X   X X 
+X   X X 
+X   X X 
+X   X X 
+ X  X X 
+  XXX X 
+    X X 
+    X X 
+    XXX 
+Offset: 1234 Character 81 Press Return
+        
+        
+        
+XXX XX  
+X XX  X 
+X X   X 
+X X     
+X X     
+X X     
+X X     
+XXX     
+        
+        
+        
+Offset: 1248 Character 82 Press Return
+        
+        
+        
+ XXXXX  
+X X   X 
+X X     
+ XXX    
+   XXX  
+    X X 
+X   X X 
+ XXXXX  
+        
+        
+        
+Offset: 1262 Character 83 Press Return
+        
+  XXX   
+  X X   
+  X X   
+XXX XXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  X X X 
+   XXX  
+        
+        
+        
+Offset: 1276 Character 84 Press Return
+        
+        
+        
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ XXXXX  
+        
+        
+        
+Offset: 1290 Character 85 Press Return
+        
+        
+        
+XXX  X  
+X X  X  
+X X  X  
+X X  X  
+ X XX   
+ X XX   
+  XX    
+  XX    
+        
+        
+        
+Offset: 1304 Character 86 Press Return
+        
+        
+        
+XXX   X 
+X X   X 
+X X   X 
+X X X X 
+X X X X 
+ X X X  
+ X X X  
+ XXX X  
+        
+        
+        
+Offset: 1318 Character 87 Press Return
+        
+        
+        
+XXX   X 
+X X  X  
+ X XX   
+  X X   
+  X X   
+  XX X  
+ X  X X 
+X   XXX 
+        
+        
+        
+Offset: 1332 Character 88 Press Return
+        
+        
+        
+XXX   X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+  X X   
+  X X   
+   X    
+   X    
+  X     
+  X     
+Offset: 1346 Character 89 Press Return
+        
+        
+        
+XXXXXXX 
+    X X 
+   X X  
+  X X   
+  X X   
+ X X    
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 1360 Character 90 Press Return
+   XXXX 
+  X X   
+  X X   
+  X X   
+  X X   
+   X X  
+  XX X  
+   X X  
+  X X   
+  X X   
+  X X   
+  X X   
+   XXXX 
+        
+Offset: 1374 Character 91 Press Return
+  XXX   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+  XXX   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+Offset: 1388 Character 92 Press Return
+ XXXX   
+   X X  
+   X X  
+   X X  
+   X X  
+  X X   
+  X XX  
+  X X   
+   X X  
+   X X  
+   X X  
+   X X  
+ XXXX   
+        
+Offset: 1402 Character 93 Press Return
+  XX  X 
+ X  XXX 
+ XXX  X 
+ X  XX  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 1416 Character 94 Press Return
+        
+        
+        
+        
+        
+        
+  XXXX  
+        
+        
+        
+        
+        
+        
+        
+Offset: 1430 Character 95 Press Return
+        
+  XXXX  
+ X X  X 
+ X X    
+X X     
+X X     
+X X     
+X X     
+ X X    
+ X X  X 
+  XXXX  
+    X   
+     X  
+  XXX   
+Offset: 1444 Character 96 Press Return
+XX   XX 
+        
+        
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ XXXXX  
+        
+        
+        
+Offset: 1458 Character 97 Press Return
+    XX  
+  XX    
+        
+  XXX   
+ X X X  
+X X   X 
+X XXXXX 
+X X     
+X X     
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 1472 Character 98 Press Return
+   XX   
+ XX  XX 
+        
+ XXXXX  
+X   X X 
+    X X 
+  XXX X 
+ X  X X 
+X   X X 
+X   X X 
+ XXXXXX 
+        
+        
+        
+Offset: 1486 Character 99 Press Return
+        
+XX   XX 
+        
+ XXXXX  
+X   X X 
+    X X 
+  XXX X 
+ X  X X 
+X   X X 
+X   X X 
+ XXXXXX 
+        
+        
+        
+Offset: 1500 Character 100 Press Return
+   XX   
+  X  X  
+   XX   
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ XXXXX  
+        
+        
+        
+Offset: 1514 Character 101 Press Return
+     XX 
+   XX   
+        
+  XXXX  
+ X X  X 
+X X     
+X X     
+X X     
+X X     
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 1528 Character 102 Press Return
+        
+        
+        
+  XXXX  
+ X X  X 
+X X     
+X X     
+X X     
+X X     
+ X X  X 
+  XXXX  
+    X   
+     X  
+  XXX   
+Offset: 1542 Character 103 Press Return
+        
+  XXX   
+  X X   
+  X X X 
+  X XX  
+  X X   
+  X X   
+ XX X   
+X X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 1556 Character 104 Press Return
+        
+XX   XX 
+        
+  XXX   
+ X X X  
+X X   X 
+X XXXXX 
+X X     
+X X     
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 1570 Character 105 Press Return
+  XX  XX
+XX  XX  
+  XXX   
+ X X X  
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 1584 Character 106 Press Return
+  XX  XX
+XX  XX  
+        
+  XXX   
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 1598 Character 107 Press Return
+   XX   
+ XX  XX 
+        
+  XXX   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 1612 Character 108 Press Return
+   X    
+XXXXXXX 
+ X  X X 
+ X X X  
+X  X X  
+  X X   
+  X X   
+ X X    
+ X X    
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 1626 Character 109 Press Return
+XX   XX 
+        
+  XXX   
+  X X   
+ X X X  
+ X X X  
+ X  X X 
+XXXXX X 
+X   X X 
+X   X X 
+X   XXX 
+        
+        
+        
+Offset: 1640 Character 110 Press Return
+       X
+  XXXX X
+ X X  X 
+ X X X  
+X X  X  
+X X     
+X X     
+X X     
+ X X    
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 1654 Character 111 Press Return
+     XX 
+   XX   
+XXXXXXX 
+X X     
+X X     
+X XXXX  
+X X     
+X X     
+X X     
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 1668 Character 112 Press Return
+        
+ XXX  XX
+ X X XX 
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ XXXXXX 
+        
+        
+        
+Offset: 1682 Character 113 Press Return
+        
+  XXX XX
+  X XXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 1696 Character 114 Press Return
+   XX   
+ XX  XX 
+        
+  XXX   
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 1710 Character 115 Press Return
+        
+XX   XX 
+        
+  XXX   
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 1724 Character 116 Press Return
+        
+ XXX  XX
+ X X   X
+ X X  X 
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ XXXXXX 
+        
+        
+        
+Offset: 1738 Character 117 Press Return
+        
+ XXX  XX
+ X X   X
+ X X  X 
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ X X    
+ XXX    
+        
+        
+        
+Offset: 1752 Character 118 Press Return
+       X
+ XXXXX X
+X X   X 
+X X  X  
+X X  X  
+ XXX    
+   XXX  
+    X X 
+    X X 
+X   X X 
+ XXXXX  
+        
+        
+        
+Offset: 1766 Character 119 Press Return
+    XX  
+  XX    
+        
+ XXXXX  
+X X   X 
+X X     
+ XXX    
+   XXX  
+    X X 
+X   X X 
+ XXXXX  
+        
+        
+        
+Offset: 1780 Character 120 Press Return
+XX   XX 
+        
+  XXX   
+ X X X  
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 1794 Character 121 Press Return
+XX   XX 
+        
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 1808 Character 122 Press Return
+ XX  XX 
+   XX   
+XXXXXXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 1822 Character 123 Press Return
+      XX
+  XXX  X
+  X X X 
+  X X   
+XXX XXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  X X X 
+   XXX  
+        
+        
+        
+Offset: 1836 Character 124 Press Return
+        
+ XXX    
+ X X    
+ X X    
+ X X    
+ X X X  
+ X XX   
+ X X    
+ X X    
+ X X    
+ XXXXXX 
+        
+        
+        
+Offset: 1850 Character 125 Press Return
+        
+        
+        
+X     X 
+ X   X  
+  X X   
+   X    
+  X X   
+ X   X  
+X     X 
+        
+        
+        
+        
+Offset: 1864 Character 126 Press Return
+ XX  XX 
+   XX   
+        
+  XXXX  
+ X X  X 
+X X     
+X X     
+X X     
+X X     
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 1878 Character 127 Press Return
+    XX  
+  XX    
+        
+ XXXXX  
+X   X X 
+    X X 
+  XXX X 
+ X  X X 
+X   X X 
+X   X X 
+ XXXXXX 
+        
+        
+        
+Offset: 1892 Character 128 Press Return
+    XX  
+  XX    
+        
+  XXX   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 1906 Character 129 Press Return
+    XX  
+  XX    
+        
+  XXX   
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 1920 Character 130 Press Return
+     XX 
+   XX   
+        
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ XXXXX  
+        
+        
+        
+Offset: 1934 Character 131 Press Return
+        
+  XXX   
+  X X   
+ X X X  
+ X X X  
+ X  X X 
+X   X X 
+XXXXX X 
+X   X X 
+X   X X 
+X   XXX 
+    XX  
+   XX   
+    XXX 
+Offset: 1948 Character 132 Press Return
+        
+        
+        
+ XXXXX  
+X   X X 
+    X X 
+  XXX X 
+ X  X X 
+X   X X 
+X   X X 
+ XXXXXX 
+    XX  
+   XX   
+    XXX 
+Offset: 1962 Character 133 Press Return
+ XX  XX 
+   XX   
+XXXXXXX 
+    X X 
+   X X  
+  X X   
+  X X   
+ X X    
+ X X    
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 1976 Character 134 Press Return
+ XX  XX 
+   XX   
+        
+XXXXXXX 
+    X X 
+   X X  
+  X X   
+  X X   
+ X X    
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 1990 Character 135 Press Return
+        
+XXXXXXX 
+X X     
+X X     
+X XXXX  
+X X     
+X X     
+X X     
+X X     
+X X     
+XXXXXXX 
+    XX  
+   XX   
+    XXX 
+Offset: 2004 Character 136 Press Return
+        
+        
+        
+  XXX   
+ X X X  
+X X   X 
+X XXXXX 
+X X     
+X X     
+ X X  X 
+  XXXX  
+    XX  
+   XX   
+    XXX 
+Offset: 2018 Character 137 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 2032 Character 138 Press Return
+    XX  
+  XX    
+        
+XXXXXXX 
+    X X 
+   X X  
+  X X   
+  X X   
+ X X    
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 2046 Character 139 Press Return
+ XX  XX 
+   XX   
+  XXXX  
+ X X  X 
+ X X    
+X X     
+X X     
+X X     
+ X X    
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 2060 Character 140 Press Return
+        
+        
+        
+ XXXXX  
+X X   X 
+X X     
+ XXX    
+   XXX  
+    X X 
+X   X X 
+ XXXXX  
+    X   
+     X  
+  XXX   
+Offset: 2074 Character 141 Press Return
+        
+        
+        
+   X  X 
+  X  X  
+ X  X   
+X  X    
+ X  X   
+  X  X  
+   X  X 
+        
+        
+        
+        
+Offset: 2088 Character 142 Press Return
+        
+        
+        
+ X  X   
+  X  X  
+   X  X 
+    X  X
+   X  X 
+  X  X  
+ X  X   
+        
+        
+        
+        
+Offset: 2102 Character 143 Press Return
+  X   X 
+        
+X   X   
+        
+  X   X 
+        
+X   X   
+        
+  X   X 
+        
+X   X   
+        
+  X   X 
+        
+Offset: 2116 Character 144 Press Return
+X X X X 
+        
+X X X X 
+        
+X X X X 
+        
+X X X X 
+        
+X X X X 
+        
+X X X X 
+        
+X X X X 
+        
+Offset: 2130 Character 145 Press Return
+X X X X 
+ X X X X
+X X X X 
+ X X X X
+X X X X 
+ X X X X
+X X X X 
+ X X X X
+X X X X 
+ X X X X
+X X X X 
+ X X X X
+X X X X 
+ X X X X
+Offset: 2144 Character 146 Press Return
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+Offset: 2158 Character 147 Press Return
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+XXXX    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+Offset: 2172 Character 148 Press Return
+      XX
+  XX XX 
+  X X   
+ X X X  
+ X X X  
+ X  X X 
+X   X X 
+XXXXX X 
+X   X X 
+X   X X 
+X   XXX 
+        
+        
+        
+Offset: 2186 Character 149 Press Return
+  XXX   
+XX   XX 
+  XXX   
+ X X X  
+ X X X  
+ X  X X 
+X   X X 
+XXXXX X 
+X   X X 
+X   X X 
+X   XXX 
+        
+        
+        
+Offset: 2200 Character 150 Press Return
+ XX  XX 
+   XX   
+XXXXXXX 
+X X     
+X X     
+X XXXX  
+X X     
+X X     
+X X     
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 2214 Character 151 Press Return
+        
+ XXXXX  
+X X   X 
+X X     
+X X     
+ XXX    
+   XXX  
+    X X 
+    X X 
+X   X X 
+ XXXXX  
+    X   
+     X  
+   XX   
+Offset: 2228 Character 152 Press Return
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+XXX  X  
+     X  
+     X  
+XXX  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+Offset: 2242 Character 153 Press Return
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+Offset: 2256 Character 154 Press Return
+        
+        
+        
+        
+        
+        
+XXXXXX  
+     X  
+     X  
+XXX  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+Offset: 2270 Character 155 Press Return
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+XXX  X  
+     X  
+     X  
+XXXXXX  
+        
+        
+        
+        
+Offset: 2284 Character 156 Press Return
+        
+XXXXXXX 
+    X X 
+   X X  
+   X X  
+XXX XXX 
+  X X   
+ X X    
+ X X    
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 2298 Character 157 Press Return
+        
+   XX   
+        
+XXXXXXX 
+    X X 
+   X X  
+  X X   
+  X X   
+ X X    
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 2312 Character 158 Press Return
+        
+        
+        
+        
+        
+        
+        
+XXXX    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+Offset: 2326 Character 159 Press Return
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   XXXXX
+        
+        
+        
+        
+        
+        
+Offset: 2340 Character 160 Press Return
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+XXXXXXXX
+        
+        
+        
+        
+        
+        
+Offset: 2354 Character 161 Press Return
+        
+        
+        
+        
+        
+        
+        
+XXXXXXXX
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+Offset: 2368 Character 162 Press Return
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   XXXXX
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+Offset: 2382 Character 163 Press Return
+        
+        
+        
+        
+        
+        
+        
+XXXXXXXX
+        
+        
+        
+        
+        
+        
+Offset: 2396 Character 164 Press Return
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+XXXXXXXX
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+Offset: 2410 Character 165 Press Return
+ XX  XX 
+   XX   
+  XXX   
+ X X X  
+ X X X  
+ X  X X 
+X   X X 
+XXXXX X 
+X   X X 
+X   X X 
+X   XXX 
+        
+        
+        
+Offset: 2424 Character 166 Press Return
+ XX  XX 
+   XX   
+        
+ XXXXX  
+X   X X 
+    X X 
+  XXX X 
+ X  X X 
+X   X X 
+X   X X 
+ XXXXXX 
+        
+        
+        
+Offset: 2438 Character 167 Press Return
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  XXX
+  X     
+  X     
+  XXXXXX
+        
+        
+        
+        
+Offset: 2452 Character 168 Press Return
+        
+        
+        
+        
+        
+        
+  XXXXXX
+  X     
+  X     
+  X  XXX
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+Offset: 2466 Character 169 Press Return
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+XXX  XXX
+        
+        
+XXXXXXXX
+        
+        
+        
+        
+Offset: 2480 Character 170 Press Return
+        
+        
+        
+        
+        
+        
+XXXXXXXX
+        
+        
+XXX  XXX
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+Offset: 2494 Character 171 Press Return
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  XXX
+  X     
+  X     
+  X  XXX
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+Offset: 2508 Character 172 Press Return
+        
+        
+        
+        
+        
+        
+XXXXXXXX
+        
+        
+XXXXXXXX
+        
+        
+        
+        
+Offset: 2522 Character 173 Press Return
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+XXX  XXX
+        
+        
+XXX  XXX
+  X  X  
+  X  X  
+  X  X  
+  X  X  
+Offset: 2536 Character 174 Press Return
+        
+        
+ X    X 
+  X  X  
+   XX   
+  X  X  
+  X  X  
+   XX   
+  X  X  
+ X    X 
+        
+        
+        
+        
+Offset: 2550 Character 175 Press Return
+        
+    XXX 
+  XXX XX
+    X X 
+  XXX X 
+ X  X X 
+X   X X 
+X   X X 
+X   X X 
+ X  X X 
+  XXXXX 
+        
+        
+        
+Offset: 2564 Character 176 Press Return
+        
+XXXXX   
+X X  X  
+X X   X 
+X X   X 
+X XXX X 
+X X   X 
+X X   X 
+X X   X 
+X X  X  
+XXXXX   
+        
+        
+        
+Offset: 2578 Character 177 Press Return
+XX  XX  
+  XX    
+XXXXX   
+X X  X  
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X  X  
+XXXXX   
+        
+        
+        
+Offset: 2592 Character 178 Press Return
+XX   XX 
+        
+XXXXXXX 
+X X     
+X X     
+X XXXX  
+X X     
+X X     
+X X     
+X X     
+XXXXXXX 
+        
+        
+        
+Offset: 2606 Character 179 Press Return
+      XX
+   XXX X
+   X XX 
+  XX X  
+ X X X  
+X  X X  
+X  X X  
+X  X X  
+X  X X  
+ X X X  
+  XXXX  
+        
+        
+        
+Offset: 2620 Character 180 Press Return
+ XX  XX 
+   XX   
+XXX   X 
+X XX  X 
+X XX  X 
+X X X X 
+X X X X 
+X X  XX 
+X X  XX 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 2634 Character 181 Press Return
+    XX  
+  XX    
+  XXX   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 2648 Character 182 Press Return
+  XXX   
+XX   XX 
+  XXX   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 2662 Character 183 Press Return
+ XX  XX 
+   XX   
+        
+  XXX   
+ X X X  
+X X   X 
+X XXXXX 
+X X     
+X X     
+ X X  X 
+  XXXX  
+        
+        
+        
+Offset: 2676 Character 184 Press Return
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+XXXX    
+        
+        
+        
+        
+        
+        
+Offset: 2690 Character 185 Press Return
+        
+        
+        
+        
+        
+        
+        
+   XXXXX
+   X    
+   X    
+   X    
+   X    
+   X    
+   X    
+Offset: 2704 Character 186 Press Return
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+Offset: 2718 Character 187 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+Offset: 2732 Character 188 Press Return
+        
+XXXXXXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  X X   
+  XXX   
+   X    
+    X   
+ XXX    
+Offset: 2746 Character 189 Press Return
+   XXX  
+    X   
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 2760 Character 190 Press Return
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+        
+        
+        
+        
+        
+        
+Offset: 2774 Character 191 Press Return
+      X 
+  XXX X 
+ X X X  
+ X X X  
+X X X X 
+X X X X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 2788 Character 192 Press Return
+        
+        
+  XXXX  
+ X X  X 
+X X   X 
+X X  X  
+X X XX  
+X X   X 
+X X   X 
+X XX  X 
+XXX XX  
+        
+        
+        
+Offset: 2802 Character 193 Press Return
+  XXX   
+XX   XX 
+  XXX   
+ X X X  
+ X X X  
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 2816 Character 194 Press Return
+     XX 
+XXX X   
+X X   X 
+X XX  X 
+X XX  X 
+X X X X 
+X X X X 
+X X  XX 
+X X  XX 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 2830 Character 195 Press Return
+     XX 
+   XX   
+        
+XXX XX  
+X XX  X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 2844 Character 196 Press Return
+ XX  XX 
+   XX   
+        
+XXX XX  
+X XX  X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+XXX   X 
+        
+        
+        
+Offset: 2858 Character 197 Press Return
+ XX  XX 
+   XX   
+ XXXXX  
+X X   X 
+X X     
+ XXX    
+   XXX  
+    X X 
+    X X 
+X   X X 
+ XXXXX  
+        
+        
+        
+Offset: 2872 Character 198 Press Return
+ XX  XX 
+   XX   
+        
+ XXXXX  
+X X   X 
+X X     
+ XXX    
+   XXX  
+    X X 
+X   X X 
+ XXXXX  
+        
+        
+        
+Offset: 2886 Character 199 Press Return
+     XX 
+   XX   
+XXXXXX  
+X X   X 
+X X   X 
+X X  X  
+X XXX   
+X X X   
+X X  X  
+X X  X  
+XXX   X 
+        
+        
+        
+Offset: 2900 Character 200 Press Return
+     XX 
+   XX   
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 2914 Character 201 Press Return
+     XX 
+   XX   
+        
+XXX XX  
+X XX  X 
+X X   X 
+X X     
+X X     
+X X     
+X X     
+XXX     
+        
+        
+        
+Offset: 2928 Character 202 Press Return
+ XX   XX
+X    X  
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ X X X  
+  XXX   
+        
+        
+        
+Offset: 2942 Character 203 Press Return
+     XX 
+   XX   
+        
+XXX   X 
+X X   X 
+X X   X 
+ X X X  
+ X X X  
+  X X   
+  X X   
+   X    
+   X    
+  X     
+  X     
+Offset: 2956 Character 204 Press Return
+     XX 
+   XX   
+XXX   X 
+X X   X 
+ X X X  
+ X X X  
+ X X X  
+  X X   
+  X X   
+  X X   
+  XXX   
+        
+        
+        
+Offset: 2970 Character 205 Press Return
+        
+  XXX   
+  X X   
+  X X   
+XXX XXX 
+  X X   
+  X X   
+  X X   
+  X X   
+  X X X 
+   XXX  
+    X   
+     X  
+  XXX   
+Offset: 2984 Character 206 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 2998 Character 207 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3012 Character 208 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3026 Character 209 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3040 Character 210 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3054 Character 211 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3068 Character 212 Press Return
+        
+  XXXX  
+ X    X 
+ X      
+ X      
+  XXX   
+ X   X  
+ X    X 
+  X   X 
+   XXX  
+      X 
+      X 
+ X    X 
+  XXXX  
+Offset: 3082 Character 213 Press Return
+        
+        
+        
+        
+   XX   
+        
+ XXXXXX 
+        
+   XX   
+        
+        
+        
+        
+        
+Offset: 3096 Character 214 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3110 Character 215 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3124 Character 216 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3138 Character 217 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3152 Character 218 Press Return
+  XX  XX
+XX  XX  
+        
+XXX   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+X X   X 
+ XXXXX  
+        
+        
+        
+Offset: 3166 Character 219 Press Return
+ XX  XX 
+   XX   
+XXXXXX  
+X X   X 
+X X   X 
+X X  X  
+X XXX   
+X X X   
+X X  X  
+X X  X  
+XXX   X 
+        
+        
+        
+Offset: 3180 Character 220 Press Return
+ XX  XX 
+   XX   
+        
+XXX XX  
+X XX  X 
+X X   X 
+X X     
+X X     
+X X     
+X X     
+XXX     
+        
+        
+        
+Offset: 3194 Character 221 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+ X    X 
+ XXXXXX 
+        
+        
+Offset: 3208 Character 222 Press Return
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+Offset: 3222 Character 223 Press Return
