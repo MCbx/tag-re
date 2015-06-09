@@ -1,0 +1,71 @@
+Reverse engineering by MCbx
+Working draft, maybe someone will finish this
+MCbx, 20150528
+
+TAG 2.x FILE HEADER:
+01 00 54 41 47 00 00 00 02 00 00 00 D2 00 00 01
+14 00 01 02 FD EF 67 55 F6 F0 67 55 1B 00 00 00 
+29 01 00 00 00 00 31 02 00 00 C8 01 00 00 C8 01 
+00 00 03 02 C8 01 00 00 03 28 00 00 14 01 03 01 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+A - file version number
+H - page height
+W - page width
+V - Document version
+G - Header/footer flags, binary, first in menus - end of byte.
+BM - Bottom Margin
+TM - Top Margin
+SM - Binding margin (inside one)
+P - page size (pre-defined) stored unknown way <---TODO.
+B1 - Block storing EVEN page header (0x01) presence.
+B2 - Block storing ODD page header (0x01) presence.
+B3 - Block storing EVEN page footer (0x01) presence.
+B4 - Block storing ODD page footer (0x01) presence.
+PO - Portrait if 0x01
+PF - Printer Offset
+EV - 02 - print all pages, 00 - even, 01 - odd.
+CO - 01 - sheets, 00 - continuous paper
+PR - Print mode? 04 - text mode, 01 - NLQ, 02 - fast graphics, no idea about other bits
+OFS - Offset until the end of header and structure - first block (+ its headers?).
+OF2, OF3, OF4 - some offsets maybe related to header/footer segments <----TODO.
+
+01 00 54 41 47 00 00 00 02 00 00 00 D2 00 00 01  <----TODO: 0x0A, 0x0B, 0x0E
+\---------------------/ \---/       \---/    PR
+    Magic number          A           W
+14 00 01 02 FD EF 67 55 F6 F0 67 55 1B 00 00 00 
+PF SM CO EV \---------/ \---------/ \---------/
+            creat date   modif date  work time (since 1/1/1970 0:0:0)
+29 01 00 00 00 00 31 02 00 00 C8 01 00 00 C8 01  <-----TODO: Offsets
+\---/ B1 B2 B3 B4 \---/ \---/ \---/ \---/ \---/   
+  H                OFS    P    OF2   OF3   OF4
+00 00 03 02 C8 01 00 00 03 28 00 00 14 01 03 01  <----TODO: 0x30-0x37, 0x39-0x3A
+                        \/       TM BM \---/ PO
+                        G                V
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 \
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   \ THIS IS A DESCRIPTION
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   / OF A WHOLE FILE
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 /
+This is 00-padded description, 160 chars work. 
+No newline here - it is padded until newline.
+
+In TAG, mostly everything is automatically padded until newline.
