@@ -1,8 +1,8 @@
-Reverse engineering by MCbx
+TAG editor format Reverse engineering by MCbx
 Working draft, maybe someone will finish this
-MCbx, 20150528
+MCbx, 20150528, 20150613
 
-TAG 2.x FILE HEADER:
+TAG 2.x FILE HEADER (the same is in 3.x):
 01 00 54 41 47 00 00 00 02 00 00 00 D2 00 00 01
 14 00 01 02 FD EF 67 55 F6 F0 67 55 1B 00 00 00 
 29 01 00 00 00 00 31 02 00 00 C8 01 00 00 C8 01 
@@ -20,7 +20,7 @@ TAG 2.x FILE HEADER:
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 
-A - file version number
+A - file version number. 2 or 3.
 H - page height
 W - page width
 V - Document version
@@ -38,8 +38,11 @@ PF - Printer Offset
 EV - 02 - print all pages, 00 - even, 01 - odd.
 CO - 01 - sheets, 00 - continuous paper
 PR - Print mode? 04 - text mode, 01 - NLQ, 02 - fast graphics, no idea about other bits
-OFS - Offset until the end of header and structure - first block (+ its headers?).
-OF2, OF3, OF4 - some offsets maybe related to header/footer segments <----TODO.
+OFS - Offset of the end of file, sometimes, next macros/zeros block comes. In V3 it is after styles definition.
+SOH - End of ALL text, later only header/footers go. 
+SOS - Offset to file's styles' block. This block contains styles info, then macro info. 
+SOT - Offset of Start Of Text block, usually C8 01.
+SC - Styles count.
 
 01 00 54 41 47 00 00 00 02 00 00 00 D2 00 00 01  <----TODO: 0x0A, 0x0B, 0x0E
 \---------------------/ \---/       \---/    PR
@@ -47,12 +50,12 @@ OF2, OF3, OF4 - some offsets maybe related to header/footer segments <----TODO.
 14 00 01 02 FD EF 67 55 F6 F0 67 55 1B 00 00 00 
 PF SM CO EV \---------/ \---------/ \---------/
             creat date   modif date  work time (since 1/1/1970 0:0:0)
-29 01 00 00 00 00 31 02 00 00 C8 01 00 00 C8 01  <-----TODO: Offsets
-\---/ B1 B2 B3 B4 \---/ \---/ \---/ \---/ \---/   
-  H                OFS    P    OF2   OF3   OF4
-00 00 03 02 C8 01 00 00 03 28 00 00 14 01 03 01  <----TODO: 0x30-0x37, 0x39-0x3A
-                        \/       TM BM \---/ PO
-                        G                V
+29 01 00 00 00 00 31 02 00 00 C8 01 00 00 C8 01  
+\---/ B1 B2 B3 B4 \---/ \---/ \---------/ \----  
+  H                OFS    P       SOH       SOS
+00 00 03 02 C8 01 00 00 03 28 00 00 14 01 03 01  <----TODO: 0x33, 0x39, 0x3A
+----/ SC    \---/-----/ \/ \---/ TM BM \---/ PO
+             SOT        G   ???          V
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 \
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
@@ -65,7 +68,9 @@ PF SM CO EV \---------/ \---------/ \---------/
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  |
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 /
-This is 00-padded description, 160 chars work. 
+This is 00-padded description, 170 (34x5) chars work. 
 No newline here - it is padded until newline.
+If line starts with 0x00, it is totally IGNORED. You can see interesting things here e.g. in BELFER.TAG, where it was copyrighted with creators names, not "InfoService" as later. Generally, split to lines, parse until 0x00.
 
-In TAG, mostly everything is automatically padded until newline.
+In TAG, mostly everything is automatically padded until newline. Usually with zeros, but headers/footers are padded with FF.
+
