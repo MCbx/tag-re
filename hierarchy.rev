@@ -1,0 +1,40 @@
+---------------------------PART 2--------------------------------20150613
+                       TEXT HIERARCHY
+
+Then HIERARCHY BLOCK comes. The record is always 100 bytes long. 100-byte records are read until ASCII-characters are not found at 101th character.
+
+The field for chapter/subchapter title has 67 characters. The problem is that not all are editable in TAG, but all are readable. 
+
+OFS is the offset of the block from the start of file. Main hierarchy has offset 256 (pointing towards itself).
+LEN is the length of segment.
+FILE is the extension of temporary file used to edit block. The block is derived from TAG file when edited or saved. It is overwritten and modified many times, as file is edited.
+NO1 and NO2 is FF 00 00 00 if there are no items under.
+NO1 - Number of next block in the same level. FF 00 00 00 if none.
+NO2 - number of block inside this one, FF 00 00 00 if none.
+IT - Indentation of file in listing - 0 is the top part, going deeper.
+NP - Number of pages in text (stats).
+NA - element number ABOVE, used strange way. FF - nothing above (topmost). If it's e.g. 03, it means that there are 3 more elements above, doesn't matter how about deepness. So the first element will be 00.
+MA - if 01, there is "#" near the item in the listing. Not listed in any manual.
+BL - 00 means blank sign (*) is present near the item. TAG may take them as pointing towards new block and, after entering them, make a new text block successfully "orphaning" another one. You have been warned.
+
+//Hierarchy block
+48 49 45 52 41 52 43 48 49 41 20 54 45 4B 53 54   //HIERARCHIA TEKST
+55 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   //U ...
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   // ....
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   // ...
+00 00 00 FF 00 00 00 01 00 00 00 FF 00 01 00 00   //...FF
+00 01 00 00 F4 01 00 00 01 00 00 00 00 00 00 00 
+00 00 00 00 
+
+00 00 00 00 52 4F 5A 44 5A 49 41 9D 20 31 00 00  //ROZDZIA£ 1
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  // ...
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  // ...
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  // ...
+00 00 00 00 00 00 00 02 00 00 00 03 00 00 00 00  //... 
+                     \---NO1---/ \---NO2---/ NA
+01 01 00 01 F4 02 00 00 0A 00 00 00 01 2E 30 30 
+IT BL MA NP \---OFS---/ \---LEN---/       \-FILE
+38 00 00 00 00 00 00 00 
+-/
+
+WARNING: The 01 2E part is unknown. In 2.x it may be 00 00, in 3.x 01 2E.
