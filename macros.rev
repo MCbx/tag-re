@@ -1,0 +1,7 @@
+MCbx 20150613
+---------------------------PART 5--------------------------------
+                           MACROS
+
+USER MACRO BLOCK is appended to the end of file after styles. Each character is following the control character designating what has to be done with this character. 
+
+TODO...
