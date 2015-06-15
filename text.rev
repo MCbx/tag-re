@@ -1,0 +1,101 @@
+MCbx, 20150613
+---------------------------PART 3--------------------------------
+                          THE TEXT
+
+TEXT BLOCK and PARAGRAPH are the same. But some paragraphs are pretending the true paragraphs, e.g.:
+01 21 10 20 TEXT 20 85
+To make newline, a new paragraph or pseudo-paragraph is placed: e.g. 85 01 21 10 20.
+0xFF is a "blank space" used in justify, center or right-align option. Contrary to "intentional space" displayed as dot o screen.
+
+So looking at the paragraph delimiter, e.g.
+80 01 21 10 40
+A   B  C  D  E
+
+A - is the ending byte of the earlier paragraph describing its alignment.
+B - Text orientation
+C - is Style Number, 0 is special.
+D,E - Font selection. To change font in-flight, use just these 2 bytes. Styles are bound to paragraphs
+
+A - How to align earlier paragraph - template. This byte ENDS the earlier text block. So in starting block it's not present.
+0 - 1 - probably ALWAYS 1.
+1 - If set to 1, bits 6/7 are ignored and 2-line spacing is used.
+2 - ?? (RESERVED) ??
+3 - Word split on (1)
+4 - Justified/Right/Left/Centered
+5 - Justified/Right/Left/Centered
+6 - Line spacing
+7 - Line spacing
+
+Bits 4, 5:
+00 - To Left
+01 - Justified
+10 - Centered
+11 - To right
+
+Bits 6,7 - line spacing
+00 - 0 lines
+01 - 1/2 line
+10 - 1 line
+11 - 3/2 lines
+
+
+B - The end of this line ends with...
+00 - Nothing
+Bits set:
+01234567
+7 (0x01) - Newline
+6 (0x02) - Newpage division
+5 (0x04) - 3 horizontal lines glyph (frame, tables)
+4 (0x08) - A square which changes to exclamation mark before the line. Fails program, no idea what it is.
+
+
+C - STYLES - 
+Max 32 styles can be present. Only last 5 bits are taken.
+First 3 bits are describing printing color (2.0). In 3.x there is smaller number of colors.
+
+
+D,E - FONT:
+Font change: Control byte 0x10 + font byte:
+
+FONT BYTE:
+01234567
+---\---/
+FON ATTR
+
+FON:
+001 - Courier
+010 - ArtDeco
+011 - Engraved
+100 - Russkij
+101 - Oldelish
+110 - Matemat
+111 - SanSerif
+000 - Special font in Special style for special purposes (semigraphics, formulas, big integrals etc.)
+
+ATTR:
+Bit
+3 - Italic
+4 - Bold
+5 - Underline
+6 - Wide
+7 - High
+
+INDEX: Upper and lower:
+Upper: Control byte is 0x12 then font byte
+Lower: Control byte is 0x11 then font byte
+Picture: Control byte 0x18 in start of paragraph. Then sequence of 4 bytes, e.g. 2E 90 8A 8A. Last two ones are scaling factors of graphics, but WITHOUT first bit, it changes every 10%, e.g. 81 82 is 10x20%, 8A 8A is 100x100%. Max is 990x990% (0xE3).
+
+
+
+Header/footer.
+There is a finite count of header/footer blocks. The order is:
+ - Header even - (22 00 FF 06)
+ - Header odd  - (26 00 FF 06)
+ - Footer even - (23 00 FF 04)
+ - Footer odd  - (26 00 FF 04)
+
+Header/footers are blocks which have constant length (ca. 1010 characters, always 1024 with 2-number header) and are padded with 0xFF. To get known which footer is which, take items from file's header and compare to blocks you have. If you know that e.g. there is a header of odd and footer of odd, it means tht they will be in this order, two 1024B blocks.
+
+In header/footer, colors have no meaning for some reason, they are ignored. There is a pointer to styles instead of it.
+
+
