@@ -1,0 +1,28 @@
+MCbx 20150613
+---------------------------PART 4--------------------------------
+                           STYLES
+In TAG 2.x Styles have only numbers. In TAG 3.x they have also names, which are kept with styles at the end of file. The number of style is still used, as styles are selected by names, in fact they are stored as numbers and TAG 2 has style name field too, but it is not used. 
+The style record is packed with tab stop columns (20 bytes). 
+The style record has 35 bytes.
+
+One record:
+
+00 FE 05 0A 0F 14 19 1E 23 28 2D 32 37 3C 41 46 
+4B 50 55 5A 5F 64 80 20 00 53 50 45 43 4A 41 4C 
+4E 59 31 
+
+Analysis:
+00 FE 05 0A 0F 14 19 1E 23 28 2D 32 37 3C 41 46 
+LM RM \------------TAB STOP COLUMNS------------...
+4B 50 55 5A 5F 64 80 20 00 53 50 45 43 4A 41 4C
+----------------/ TA FO CO \---10 chars name...
+4E 59 31 
+-------/
+
+LM - Left Margin
+RM - Right Margin
+TB - Tab column
+CO - Text color on last 3 bits.
+TA - Text alignment - see bits as in TEXT.REV...
+FO - Font. See TEXT.REV...
+
