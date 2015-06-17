@@ -12,7 +12,7 @@ if ($#ARGV!=0)
 #####################
 # MCbx 2015         #
 #Takes TAG.OVL and  #
-#produces the key.	#
+#produces the key.  #
 #                   #
 #####################
 
