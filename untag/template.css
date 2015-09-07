@@ -1,0 +1,119 @@
+.courier {
+	font-family: courier;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	letter-spacing: normal;
+
+} 
+.artdeco {
+
+}
+.engraved {
+	font-family: times;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	letter-spacing: normal;
+
+}
+.russkij {
+
+}
+.oldelish {
+
+}
+.matemat {
+
+}
+.sanserif {
+	font-family: Sans-Serif;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	letter-spacing: normal;
+
+}
+
+
+.gruby {
+	font-weight: bold;
+}
+.podkreslony {
+	text-decoration: underline;
+}
+.kursywa {
+	font-style: italic;
+}
+.szeroki {
+	letter-spacing: 0.25em;
+}
+.wysoki {
+	font-size: 2em;
+	letter-spacing: 0px;
+}
+.szerWys {
+	font-size: 1.5em;
+	letter-spacing: 0.25em;
+}
+
+.indDolny {
+	vertical-align: sub;
+}
+.indGorny {
+	vertical-align: super;
+}
+
+.col0 {
+	color: white;
+}
+.col1 {
+	color: black;
+}
+.col2 {
+	color: red;
+}
+.col3 {
+	color: green;
+}
+.col4 {
+	color: blue;
+}
+.col5 {
+	color: yellow;
+}
+.col6 {
+	color: DarkBlue;
+}
+.col7 {
+	color: Magenta;
+}
+
+.left {
+	text-align: left;
+}
+.justified  {
+	text-align: justify;
+}
+.centered {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+
+.line0 {
+	line-height: 0%;
+}
+.line12 {
+	line-height: 50%;
+}
+.line1 {
+	line-height: 100%;
+}
+.line32 {
+	line-height: 150%;
+}
+.line2 {
+	line-height: 200%;
+}
